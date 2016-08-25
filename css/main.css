@@ -1,0 +1,57 @@
+.box {
+	height: 200px;
+	width: 200px;
+	display: inline-block;
+	margin: 10px;
+}
+ 
+
+.linea{
+	height: 5px;
+	width: 100px;
+	position: relative;;
+	background-color: black;
+	margin-bottom: 5px;
+
+	
+}
+
+
+
+.nombre {
+	width: 200px;
+	height:10px;
+	left: 0;
+	bottom: 0;
+	top: 180px;
+	text-align: right;
+	position: relative;
+	color: #FFFFFF;
+
+}
+
+
+.primer{
+	position: relative;
+}
+
+
+
+.uno {
+background-image: url(../img/profile-1.png);
+}
+.dos {
+background-image: url(../img/profile-2.png);
+}
+.tres {
+background-image: url(../img/profile-3.png);
+}
+.cuatro {
+background-image: url(../img/profile-4.png);
+}
+.cinco {
+background-image: url(../img/profile-5.png);
+}
+.seis {
+background-image: url(../img/profile-6.png);
+}
